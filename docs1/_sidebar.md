@@ -1,4 +1,0 @@
-- [Home](/)
-- [Installation](/installation)
-- Essentials
-  - [getting started](/getting-started)
