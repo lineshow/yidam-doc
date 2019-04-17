@@ -34,7 +34,7 @@
 ### threadlocal
 #### 知识点
 
-​	![一图千言](/Users/edgarchan/Documents/my_home/1555470787073.jpg)
+​	![一图千言](../imgs/1555470787073.jpg)
 
 - [ThreadLocal源码分析](https://github.com/CL0610/Java-concurrency/blob/master/18.%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%8C%E4%BB%8E%E6%BA%90%E7%A0%81%E6%B7%B1%E5%85%A5%E8%AF%A6%E8%A7%A3ThreadLocal%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%EF%BC%8C%E4%BB%8E%E6%BA%90%E7%A0%81%E6%B7%B1%E5%85%A5%E8%AF%A6%E8%A7%A3ThreadLocal%E5%86%85%E5%AD%98%E6%B3%84%E6%BC%8F%E9%97%AE%E9%A2%98.md)
 
